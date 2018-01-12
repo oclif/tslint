@@ -5,16 +5,22 @@
   ],
   "rules": {
     "array-type": false,
+    "comment-format": false,
     "curly": false,
     "interface-name": false,
     "max-classes-per-file": false,
+    "max-line-length": false,
     "member-access": false,
     "no-empty": false,
+    "no-require-imports": false,
     "no-shadowed-variable": false,
     "no-var-requires": false,
     "object-literal-sort-keys": false,
+    "only-arrow-functions": false,
     "ordered-imports": { "severity": "error", "options": {"grouped-imports": true} },
     "prefer-const": false,
+    "semicolon": [true, "never"],
+    "type-literal-delimiter": false,
     "variable-name": false
   }
 }
