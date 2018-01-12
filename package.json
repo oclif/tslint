@@ -3,7 +3,9 @@
   "description": "tslint rules for dxcli components",
   "name": "@dxcli/dev-tslint",
   "version": "0.0.2",
-  "dependencies": {},
+  "dependencies": {
+    "tslint": "^5.9.1"
+  },
   "devDependencies": {
     "@dxcli/dev-lint": "^0.0.1",
     "@dxcli/dev-semantic-release": "^0.0.2",
