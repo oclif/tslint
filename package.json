@@ -5,8 +5,7 @@
   "author": "Jeff Dickey @jdxcode",
   "dependencies": {
     "eslint": "^4.15.0",
-    "eslint-config-dxcli": "^1.0.1",
-    "tslint": "^5.9.1"
+    "eslint-config-dxcli": "^1.0.1"
   },
   "devDependencies": {
     "@dxcli/dev-semantic-release": "^0.0.2",
