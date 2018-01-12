@@ -1,3 +1,11 @@
+<a name="0.0.4"></a>
+## [0.0.4](https://github.com/dxcli/dev-tslint/compare/b3560cde6ceec25c435295d200e01ac2b024ab2e...v0.0.4) (2018-01-12)
+
+
+### Bug Fixes
+
+* added main ([45c169f](https://github.com/dxcli/dev-tslint/commit/45c169f))
+
 <a name="0.0.3"></a>
 ## [0.0.3](https://github.com/dxcli/dev-tslint/compare/5c5cca1daf97bc45be019884aedb0210e50ba83f...v0.0.3) (2018-01-12)
 
