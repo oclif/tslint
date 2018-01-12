@@ -1,7 +1,7 @@
 {
   "name": "@dxcli/dev-lint",
   "description": "linting rules for dxcli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Jeff Dickey @jdxcode",
   "dependencies": {
     "eslint": "^4.15.0",
