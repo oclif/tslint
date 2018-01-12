@@ -1,21 +1,22 @@
 {
-  "name": "@dxcli/dev-lint",
-  "description": "linting rules for dxcli",
-  "version": "0.0.2",
   "author": "Jeff Dickey @jdxcode",
-  "dependencies": {
-    "eslint": "^4.15.0",
-    "eslint-config-dxcli": "^1.0.1"
-  },
+  "description": "tslint rules for dxcli components",
+  "name": "@dxcli/dev-tslint",
+  "version": "0.0.2",
+  "dependencies": {},
   "devDependencies": {
+    "@dxcli/dev-lint": "^0.0.1",
     "@dxcli/dev-semantic-release": "^0.0.2",
     "husky": "^0.14.3"
+  },
+  "engines": {
+    "node": ">=8.0.0"
   },
   "files": [
     "/tslint.json"
   ],
   "license": "MIT",
-  "repository": "dxcli/dev-lint",
+  "repository": "dxcli/dev-tslint",
   "scripts": {
     "commitmsg": "dxcli-dev-commitmsg"
   }

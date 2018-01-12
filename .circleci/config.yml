@@ -1,4 +1,3 @@
-
 ---
 version: 2
 jobs:
@@ -13,8 +12,7 @@ jobs:
             - v0-yarn-{{ .Environment.CIRCLE_JOB }}-{{checksum ".circleci/config.yml"}}-{{ .Branch }}-{{checksum "yarn.lock"}}
             - v0-yarn-{{ .Environment.CIRCLE_JOB }}-{{checksum ".circleci/config.yml"}}-{{ .Branch }}-
             - v0-yarn-{{ .Environment.CIRCLE_JOB }}-{{checksum ".circleci/config.yml"}}-master
-      - run: yarn
-      # - run: ./scripts/ci_run
+      # - run: ./scripts/circleci
       - save_cache: &save_cache
           key: v0-yarn-{{ .Environment.CIRCLE_JOB }}-{{checksum ".circleci/config.yml"}}-{{ .Branch }}-{{checksum "yarn.lock"}}
           paths:
