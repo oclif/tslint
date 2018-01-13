@@ -1,3 +1,11 @@
+<a name="0.0.6"></a>
+## [0.0.6](https://github.com/dxcli/dev-tslint/compare/c85711e9167e1f46796f01da51965ee666f4e59d...v0.0.6) (2018-01-13)
+
+
+### Bug Fixes
+
+* loosen rules ([82b8744](https://github.com/dxcli/dev-tslint/commit/82b8744))
+
 <a name="0.0.5"></a>
 ## [0.0.5](https://github.com/dxcli/dev-tslint/compare/45c169f2e808ec2d19870c12b9939256eb0bc12b...v0.0.5) (2018-01-13)
 
