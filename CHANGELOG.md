@@ -1,3 +1,11 @@
+<a name="0.0.7"></a>
+## [0.0.7](https://github.com/dxcli/dev-tslint/compare/82b87445ff7474cb2f87971954e83b8d5575313b...v0.0.7) (2018-01-14)
+
+
+### Bug Fixes
+
+* remove no-collapsible-if ([0f41ca5](https://github.com/dxcli/dev-tslint/commit/0f41ca5))
+
 <a name="0.0.6"></a>
 ## [0.0.6](https://github.com/dxcli/dev-tslint/compare/c85711e9167e1f46796f01da51965ee666f4e59d...v0.0.6) (2018-01-13)
 
