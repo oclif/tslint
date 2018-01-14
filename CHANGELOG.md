@@ -1,3 +1,11 @@
+<a name="0.0.8"></a>
+## [0.0.8](https://github.com/dxcli/dev-tslint/compare/0f41ca589ad6b736a4e8e59e653a615051c0af01...v0.0.8) (2018-01-14)
+
+
+### Bug Fixes
+
+* updated deps ([6c846f5](https://github.com/dxcli/dev-tslint/commit/6c846f5))
+
 <a name="0.0.7"></a>
 ## [0.0.7](https://github.com/dxcli/dev-tslint/compare/82b87445ff7474cb2f87971954e83b8d5575313b...v0.0.7) (2018-01-14)
 
