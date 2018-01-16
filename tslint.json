@@ -5,6 +5,7 @@
   ],
   "rules": {
     "array-type": false,
+    "await-promise": false,
     "brace-style": [true, "1tbs", {"allowSingleLine": true}],
     "comment-format": false,
     "curly": false,
