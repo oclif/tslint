@@ -1,3 +1,11 @@
+<a name="0.0.14"></a>
+## [0.0.14](https://github.com/dxcli/dev-tslint/compare/18e4f23a3fc6be5a43051c553d237ea7eec6e601...v0.0.14) (2018-01-16)
+
+
+### Bug Fixes
+
+* remove promise-function-async ([1ac84eb](https://github.com/dxcli/dev-tslint/commit/1ac84eb))
+
 <a name="0.0.13"></a>
 ## [0.0.13](https://github.com/dxcli/dev-tslint/compare/66ec71d8cc5e207867f2d32a2feceb1454aac844...v0.0.13) (2018-01-16)
 
