@@ -1,3 +1,11 @@
+<a name="0.0.15"></a>
+## [0.0.15](https://github.com/dxcli/dev-tslint/compare/1ac84ebd36c5042a5e764af29bb1055a41db81eb...v0.0.15) (2018-01-16)
+
+
+### Bug Fixes
+
+* remove no-conditional-assignment ([add0302](https://github.com/dxcli/dev-tslint/commit/add0302))
+
 <a name="0.0.14"></a>
 ## [0.0.14](https://github.com/dxcli/dev-tslint/compare/18e4f23a3fc6be5a43051c553d237ea7eec6e601...v0.0.14) (2018-01-16)
 
