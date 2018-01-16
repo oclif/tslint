@@ -1,3 +1,11 @@
+<a name="0.0.12"></a>
+## [0.0.12](https://github.com/dxcli/dev-tslint/compare/6c8c0a652568efdbd56229ad5ca77759bef5e978...v0.0.12) (2018-01-16)
+
+
+### Bug Fixes
+
+* remove await-promise ([66ec71d](https://github.com/dxcli/dev-tslint/commit/66ec71d))
+
 <a name="0.0.11"></a>
 ## [0.0.11](https://github.com/dxcli/dev-tslint/compare/08c740d0d403a9a74f9c8628de8377010c20b00e...v0.0.11) (2018-01-16)
 
