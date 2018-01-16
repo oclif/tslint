@@ -1,3 +1,11 @@
+<a name="0.0.11"></a>
+## [0.0.11](https://github.com/dxcli/dev-tslint/compare/08c740d0d403a9a74f9c8628de8377010c20b00e...v0.0.11) (2018-01-16)
+
+
+### Bug Fixes
+
+* remove no-unnecessary-type-assertion ([6c8c0a6](https://github.com/dxcli/dev-tslint/commit/6c8c0a6))
+
 <a name="0.0.10"></a>
 ## [0.0.10](https://github.com/dxcli/dev-tslint/compare/97a6ace178dd8cb6cd3e477debaaff9769e94bbb...v0.0.10) (2018-01-16)
 
