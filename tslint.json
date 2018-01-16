@@ -28,6 +28,7 @@
     "only-arrow-functions": false,
     "ordered-imports": { "severity": "error", "options": {"grouped-imports": true} },
     "prefer-const": false,
+    "promise-must-complete": false,
     "semicolon": [true, "never"],
     "type-literal-delimiter": false,
     "underscore-consistent-invocation": false,
