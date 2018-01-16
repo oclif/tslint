@@ -19,6 +19,7 @@
     "no-parameter-reassignment": false,
     "no-require-imports": false,
     "no-shadowed-variable": false,
+    "no-static-this": false,
     "no-var-requires": false,
     "object-literal-sort-keys": false,
     "only-arrow-functions": false,
@@ -26,6 +27,7 @@
     "prefer-const": false,
     "semicolon": [true, "never"],
     "type-literal-delimiter": false,
+    "underscore-consistent-invocation": false,
     "variable-name": false
   }
 }
