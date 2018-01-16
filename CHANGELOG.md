@@ -1,3 +1,11 @@
+<a name="0.0.10"></a>
+## [0.0.10](https://github.com/dxcli/dev-tslint/compare/97a6ace178dd8cb6cd3e477debaaff9769e94bbb...v0.0.10) (2018-01-16)
+
+
+### Bug Fixes
+
+* remove no-unnecessary-type-annotation ([08c740d](https://github.com/dxcli/dev-tslint/commit/08c740d))
+
 <a name="0.0.9"></a>
 ## [0.0.9](https://github.com/dxcli/dev-tslint/compare/6c846f5ae1016dd988a365048034e6dce05dc9ee...v0.0.9) (2018-01-16)
 
