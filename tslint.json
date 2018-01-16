@@ -15,6 +15,7 @@
     "member-access": false,
     "newline-before-return": false,
     "no-collapsible-if": false,
+    "no-conditional-assignment": false,
     "no-empty": false,
     "no-non-null-assertion": false,
     "no-parameter-reassignment": false,
