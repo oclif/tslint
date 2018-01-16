@@ -20,6 +20,7 @@
     "no-require-imports": false,
     "no-shadowed-variable": false,
     "no-static-this": false,
+    "no-unnecessary-type-annotation": false,
     "no-var-requires": false,
     "object-literal-sort-keys": false,
     "only-arrow-functions": false,
