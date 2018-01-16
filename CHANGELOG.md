@@ -1,3 +1,11 @@
+<a name="0.0.9"></a>
+## [0.0.9](https://github.com/dxcli/dev-tslint/compare/6c846f5ae1016dd988a365048034e6dce05dc9ee...v0.0.9) (2018-01-16)
+
+
+### Bug Fixes
+
+* remove no-static-this and underscore-consistent-invocation ([97a6ace](https://github.com/dxcli/dev-tslint/commit/97a6ace))
+
 <a name="0.0.8"></a>
 ## [0.0.8](https://github.com/dxcli/dev-tslint/compare/0f41ca589ad6b736a4e8e59e653a615051c0af01...v0.0.8) (2018-01-14)
 
