@@ -1,3 +1,11 @@
+<a name="0.0.13"></a>
+## [0.0.13](https://github.com/dxcli/dev-tslint/compare/66ec71d8cc5e207867f2d32a2feceb1454aac844...v0.0.13) (2018-01-16)
+
+
+### Bug Fixes
+
+* remove promise-must-complete ([18e4f23](https://github.com/dxcli/dev-tslint/commit/18e4f23))
+
 <a name="0.0.12"></a>
 ## [0.0.12](https://github.com/dxcli/dev-tslint/compare/6c8c0a652568efdbd56229ad5ca77759bef5e978...v0.0.12) (2018-01-16)
 
