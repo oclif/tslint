@@ -1,3 +1,11 @@
+<a name="0.0.16"></a>
+## [0.0.16](https://github.com/dxcli/dev-tslint/compare/add0302b628f76a67e4384eed10c0b37af7ebcfa...v0.0.16) (2018-01-26)
+
+
+### Bug Fixes
+
+* remove no-dynamic-delete ([1994a82](https://github.com/dxcli/dev-tslint/commit/1994a82))
+
 <a name="0.0.15"></a>
 ## [0.0.15](https://github.com/dxcli/dev-tslint/compare/1ac84ebd36c5042a5e764af29bb1055a41db81eb...v0.0.15) (2018-01-16)
 
