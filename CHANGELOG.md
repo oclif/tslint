@@ -1,3 +1,11 @@
+<a name="0.0.17"></a>
+## [0.0.17](https://github.com/dxcli/dev-tslint/compare/1994a827535c7d8e7c618ed2764fdaf0c6afb54b...v0.0.17) (2018-01-26)
+
+
+### Bug Fixes
+
+* remove no-namespace ([2d19916](https://github.com/dxcli/dev-tslint/commit/2d19916))
+
 <a name="0.0.16"></a>
 ## [0.0.16](https://github.com/dxcli/dev-tslint/compare/add0302b628f76a67e4384eed10c0b37af7ebcfa...v0.0.16) (2018-01-26)
 
