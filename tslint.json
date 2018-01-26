@@ -18,6 +18,7 @@
     "no-conditional-assignment": false,
     "no-dynamic-delete": false,
     "no-empty": false,
+    "no-namespace": false,
     "no-non-null-assertion": false,
     "no-parameter-reassignment": false,
     "no-require-imports": false,
