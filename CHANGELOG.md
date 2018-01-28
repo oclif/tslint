@@ -1,3 +1,11 @@
+<a name="0.1.0"></a>
+# [0.1.0](https://github.com/dxcli/tslint/compare/241501c8684745fe3fcff896b10fa6de936049a8...v0.1.0) (2018-01-28)
+
+
+### Features
+
+* set space-before-function-paren ([3453dcf](https://github.com/dxcli/tslint/commit/3453dcf))
+
 <a name="0.0.24"></a>
 ## [0.0.24](https://github.com/dxcli/tslint/compare/313404437aac9a66d1a5f94a9dd21297d5975f82...v0.0.24) (2018-01-28)
 
