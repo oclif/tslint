@@ -1,3 +1,11 @@
+<a name="0.0.22"></a>
+## [0.0.22](https://github.com/dxcli/tslint/compare/9aeadcdd82182927de5126348cfa1ec7647af594...v0.0.22) (2018-01-28)
+
+
+### Bug Fixes
+
+* disable default-case ([109d1fd](https://github.com/dxcli/tslint/commit/109d1fd))
+
 <a name="0.0.21"></a>
 ## [0.0.21](https://github.com/dxcli/tslint/compare/643b4a6cd2256382df6239323d3b61e7ece8cbe4...v0.0.21) (2018-01-28)
 
