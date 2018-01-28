@@ -38,6 +38,7 @@
     "prefer-const": false,
     "promise-function-async": false,
     "promise-must-complete": false,
+    "restrict-plus-operands": false,
     "semicolon": [true, "never"],
     "switch-default": false,
     "type-literal-delimiter": false,
