@@ -1,3 +1,11 @@
+<a name="0.0.20"></a>
+## [0.0.20](https://github.com/dxcli/tslint/compare/6ae693715d8bb6b6b9d99c3ba6086baaafa4a5bf...v0.0.20) (2018-01-28)
+
+
+### Bug Fixes
+
+* added typescript back in ([643b4a6](https://github.com/dxcli/tslint/commit/643b4a6))
+
 <a name="0.0.19"></a>
 ## [0.0.19](https://github.com/dxcli/dev-tslint/compare/94f3406a9a838b7e2aeef39cecaa118a903b7949...v0.0.19) (2018-01-28)
 
