@@ -35,6 +35,7 @@
     "promise-function-async": false,
     "promise-must-complete": false,
     "semicolon": [true, "never"],
+    "switch-default": false,
     "type-literal-delimiter": false,
     "underscore-consistent-invocation": false,
     "variable-name": false
