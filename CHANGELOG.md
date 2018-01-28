@@ -1,3 +1,11 @@
+<a name="0.1.2"></a>
+## [0.1.2](https://github.com/dxcli/tslint/compare/9e13ed62b3729ccb34bda11bb25f8875641504b8...v0.1.2) (2018-01-28)
+
+
+### Bug Fixes
+
+* remove no-else-after-return ([a2eb5c0](https://github.com/dxcli/tslint/commit/a2eb5c0))
+
 <a name="0.1.1"></a>
 ## [0.1.1](https://github.com/dxcli/tslint/compare/3453dcff955698d8c95a059e27dcb767629a26a0...v0.1.1) (2018-01-28)
 

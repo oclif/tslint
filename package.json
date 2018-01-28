@@ -1,7 +1,7 @@
 {
   "name": "@dxcli/tslint",
   "description": "tslint rules for dxcli components",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Jeff Dickey @jdxcode",
   "dependencies": {
     "tslint": "^5.9.1",
