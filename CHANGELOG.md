@@ -1,3 +1,11 @@
+<a name="0.0.23"></a>
+## [0.0.23](https://github.com/dxcli/tslint/compare/109d1fdb93217ad7d03d7695291c8e8eb4384813...v0.0.23) (2018-01-28)
+
+
+### Bug Fixes
+
+* allow early-exit ([3134044](https://github.com/dxcli/tslint/commit/3134044))
+
 <a name="0.0.22"></a>
 ## [0.0.22](https://github.com/dxcli/tslint/compare/9aeadcdd82182927de5126348cfa1ec7647af594...v0.0.22) (2018-01-28)
 
