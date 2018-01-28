@@ -1,3 +1,11 @@
+<a name="0.0.18"></a>
+## [0.0.18](https://github.com/dxcli/dev-tslint/compare/2d19916052eccc37e69e04725558f97f5f90acdf...v0.0.18) (2018-01-28)
+
+
+### Bug Fixes
+
+* remove no-var-before-return ([94f3406](https://github.com/dxcli/dev-tslint/commit/94f3406))
+
 <a name="0.0.17"></a>
 ## [0.0.17](https://github.com/dxcli/dev-tslint/compare/1994a827535c7d8e7c618ed2764fdaf0c6afb54b...v0.0.17) (2018-01-26)
 
