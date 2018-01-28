@@ -1,3 +1,11 @@
+<a name="0.1.3"></a>
+## [0.1.3](https://github.com/dxcli/tslint/compare/a2eb5c067c46b4b9ae429249912e36bb35c21eca...v0.1.3) (2018-01-28)
+
+
+### Bug Fixes
+
+* remove restrict-plus-operands ([de57300](https://github.com/dxcli/tslint/commit/de57300))
+
 <a name="0.1.2"></a>
 ## [0.1.2](https://github.com/dxcli/tslint/compare/9e13ed62b3729ccb34bda11bb25f8875641504b8...v0.1.2) (2018-01-28)
 
