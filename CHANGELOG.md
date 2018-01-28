@@ -1,3 +1,11 @@
+<a name="0.0.19"></a>
+## [0.0.19](https://github.com/dxcli/dev-tslint/compare/94f3406a9a838b7e2aeef39cecaa118a903b7949...v0.0.19) (2018-01-28)
+
+
+### Bug Fixes
+
+* remove switch-default ([3aabf26](https://github.com/dxcli/dev-tslint/commit/3aabf26))
+
 <a name="0.0.18"></a>
 ## [0.0.18](https://github.com/dxcli/dev-tslint/compare/2d19916052eccc37e69e04725558f97f5f90acdf...v0.0.18) (2018-01-28)
 
