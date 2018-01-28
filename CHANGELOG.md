@@ -1,3 +1,11 @@
+<a name="0.1.1"></a>
+## [0.1.1](https://github.com/dxcli/tslint/compare/3453dcff955698d8c95a059e27dcb767629a26a0...v0.1.1) (2018-01-28)
+
+
+### Bug Fixes
+
+* triggering release ([9e13ed6](https://github.com/dxcli/tslint/commit/9e13ed6))
+
 <a name="0.1.0"></a>
 # [0.1.0](https://github.com/dxcli/tslint/compare/241501c8684745fe3fcff896b10fa6de936049a8...v0.1.0) (2018-01-28)
 
