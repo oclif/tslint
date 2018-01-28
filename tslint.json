@@ -26,6 +26,7 @@
     "no-static-this": false,
     "no-unnecessary-type-annotation": false,
     "no-unnecessary-type-assertion": false,
+    "no-var-before-return": false,
     "no-var-requires": false,
     "object-literal-sort-keys": false,
     "only-arrow-functions": false,
