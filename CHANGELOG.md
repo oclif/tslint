@@ -1,3 +1,11 @@
+<a name="0.0.24"></a>
+## [0.0.24](https://github.com/dxcli/tslint/compare/313404437aac9a66d1a5f94a9dd21297d5975f82...v0.0.24) (2018-01-28)
+
+
+### Bug Fixes
+
+* remove no-use-before-declare ([241501c](https://github.com/dxcli/tslint/commit/241501c))
+
 <a name="0.0.23"></a>
 ## [0.0.23](https://github.com/dxcli/tslint/compare/109d1fdb93217ad7d03d7695291c8e8eb4384813...v0.0.23) (2018-01-28)
 
