@@ -11,7 +11,8 @@
     "@dxcli/semantic-release": "^0.2.4",
     "eslint": "^4.16.0",
     "eslint-config-dxcli": "^1.1.5",
-    "husky": "^0.14.3"
+    "husky": "^0.14.3",
+    "typescript": "^2.6.2"
   },
   "engines": {
     "node": ">=8.0.0"
