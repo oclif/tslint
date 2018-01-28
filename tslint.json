@@ -38,7 +38,6 @@
     "promise-function-async": false,
     "promise-must-complete": false,
     "semicolon": [true, "never"],
-    "space-before-function-paren": [true, "always"],
     "switch-default": false,
     "type-literal-delimiter": false,
     "underscore-consistent-invocation": false,
