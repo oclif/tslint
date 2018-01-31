@@ -1,3 +1,11 @@
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/anycli/tslint/compare/21d6974a40b0af1651e756dae5b3f3c3420d3596...v0.2.0) (2018-01-31)
+
+
+### Features
+
+* updated tslint-xo ([11e0bd7](https://github.com/anycli/tslint/commit/11e0bd7))
+
 <a name="0.1.4"></a>
 ## [0.1.4](https://github.com/anycli/tslint/compare/12cd2faca2ecb9059e509e244c60e7df41782f08...v0.1.4) (2018-01-31)
 
