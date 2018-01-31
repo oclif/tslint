@@ -34,7 +34,6 @@
   "scripts": {
     "commitmsg": "commitlint -x @commitlint/config-conventional -e $GIT_PARAMS",
     "precommit": "nps lint -l warn",
-    "prepublishOnly": "nps build",
     "test": "nps test -l warn"
   },
   "types": "lib/index.d.ts"
