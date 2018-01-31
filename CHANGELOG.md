@@ -1,3 +1,11 @@
+<a name="0.1.4"></a>
+## [0.1.4](https://github.com/anycli/tslint/compare/12cd2faca2ecb9059e509e244c60e7df41782f08...v0.1.4) (2018-01-31)
+
+
+### Bug Fixes
+
+* anycli rename ([21d6974](https://github.com/anycli/tslint/commit/21d6974))
+
 <a name="0.1.3"></a>
 ## [0.1.3](https://github.com/dxcli/tslint/compare/a2eb5c067c46b4b9ae429249912e36bb35c21eca...v0.1.3) (2018-01-28)
 
