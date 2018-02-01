@@ -1,3 +1,11 @@
+<a name="0.2.1"></a>
+## [0.2.1](https://github.com/anycli/tslint/compare/11e0bd74a0daab907157ed62abab5141429639af...v0.2.1) (2018-02-01)
+
+
+### Bug Fixes
+
+* remove no-unnecessary-else ([6afdc8d](https://github.com/anycli/tslint/commit/6afdc8d))
+
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/anycli/tslint/compare/21d6974a40b0af1651e756dae5b3f3c3420d3596...v0.2.0) (2018-01-31)
 
