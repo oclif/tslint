@@ -1,3 +1,12 @@
+<a name="0.2.2"></a>
+## [0.2.2](https://github.com/anycli/tslint/compare/6afdc8d4b2a350e3660a6a057ffbb28a0a487402...v0.2.2) (2018-02-02)
+
+
+### Bug Fixes
+
+* added quotemark ([9a73e22](https://github.com/anycli/tslint/commit/9a73e22))
+* added tslint test ([2504966](https://github.com/anycli/tslint/commit/2504966))
+
 <a name="0.2.1"></a>
 ## [0.2.1](https://github.com/anycli/tslint/compare/11e0bd74a0daab907157ed62abab5141429639af...v0.2.1) (2018-02-01)
 
