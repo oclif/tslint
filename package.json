@@ -9,14 +9,9 @@
     "tslint-xo": "^0.6.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^6.0.2",
-    "@commitlint/config-conventional": "^6.0.2",
     "eslint": "^4.16.0",
-    "eslint-config-anycli": "^1.3.0",
-    "husky": "^0.14.3",
-    "nps": "^5.7.1",
-    "nps-utils": "^1.5.0",
-    "typescript": "^2.6.2"
+    "eslint-config-anycli": "^1.3.1",
+    "typescript": "^2.7.1"
   },
   "engines": {
     "node": ">=8.0.0"
@@ -32,9 +27,9 @@
   "main": "tslint.json",
   "repository": "anycli/tslint",
   "scripts": {
-    "commitmsg": "commitlint -x @commitlint/config-conventional -e $GIT_PARAMS",
-    "precommit": "nps lint -l warn",
-    "test": "nps test -l warn"
+    "lint": "eslint .",
+    "posttest": "yarn run lint",
+    "test": "tslint -p ."
   },
   "types": "lib/index.d.ts"
 }
