@@ -21,6 +21,7 @@
     "no-dynamic-delete": false,
     "no-else-after-return": false,
     "no-empty": false,
+    "no-import-side-effect": false,
     "no-namespace": false,
     "no-non-null-assertion": false,
     "no-parameter-reassignment": false,
