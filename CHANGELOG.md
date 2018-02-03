@@ -1,3 +1,11 @@
+<a name="0.2.5"></a>
+## [0.2.5](https://github.com/anycli/tslint/compare/9dbded5fe0b7a43a8b910a2b4605dbc2f7755c9d...v0.2.5) (2018-02-03)
+
+
+### Bug Fixes
+
+* disable no-empty-interface ([982f10a](https://github.com/anycli/tslint/commit/982f10a))
+
 <a name="0.2.4"></a>
 ## [0.2.4](https://github.com/anycli/tslint/compare/b3df6973f80d46ec0640e35650fa8c9451cc2d53...v0.2.4) (2018-02-03)
 
