@@ -1,3 +1,11 @@
+<a name="0.2.4"></a>
+## [0.2.4](https://github.com/anycli/tslint/compare/b3df6973f80d46ec0640e35650fa8c9451cc2d53...v0.2.4) (2018-02-03)
+
+
+### Bug Fixes
+
+* disable interface-over-type-literal ([9dbded5](https://github.com/anycli/tslint/commit/9dbded5))
+
 <a name="0.2.3"></a>
 ## [0.2.3](https://github.com/anycli/tslint/compare/25049661e585ec5c994f23428b4440b5f2c6c198...v0.2.3) (2018-02-02)
 
