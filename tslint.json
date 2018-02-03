@@ -12,6 +12,7 @@
     "default-case": false,
     "early-exit": false,
     "interface-name": false,
+    "interface-over-type-literal": false,
     "max-classes-per-file": false,
     "max-line-length": false,
     "member-access": false,
