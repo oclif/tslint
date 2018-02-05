@@ -1,3 +1,11 @@
+<a name="0.2.6"></a>
+## [0.2.6](https://github.com/anycli/tslint/compare/982f10afc1cee3d9535b61010012e3b7888b18d8...v0.2.6) (2018-02-05)
+
+
+### Bug Fixes
+
+* add no-unused-expression ([fd0b34e](https://github.com/anycli/tslint/commit/fd0b34e))
+
 <a name="0.2.5"></a>
 ## [0.2.5](https://github.com/anycli/tslint/compare/9dbded5fe0b7a43a8b910a2b4605dbc2f7755c9d...v0.2.5) (2018-02-03)
 
