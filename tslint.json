@@ -33,6 +33,7 @@
     "no-unnecessary-else": false,
     "no-unnecessary-type-annotation": false,
     "no-unnecessary-type-assertion": false,
+    "no-unused-expression": false,
     "no-use-before-declare": false,
     "no-var-before-return": false,
     "no-var-requires": false,
