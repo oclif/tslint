@@ -1,3 +1,11 @@
+<a name="0.2.7"></a>
+## [0.2.7](https://github.com/anycli/tslint/compare/fd0b34e177ee676ad734fc7c5830b41979585f00...v0.2.7) (2018-02-06)
+
+
+### Bug Fixes
+
+* remove prefer-template ([a654b4d](https://github.com/anycli/tslint/commit/a654b4d))
+
 <a name="0.2.6"></a>
 ## [0.2.6](https://github.com/anycli/tslint/compare/982f10afc1cee3d9535b61010012e3b7888b18d8...v0.2.6) (2018-02-05)
 
