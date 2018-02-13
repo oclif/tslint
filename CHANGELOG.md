@@ -1,3 +1,11 @@
+<a name="0.2.9"></a>
+## [0.2.9](https://github.com/oclif/tslint/compare/v0.2.8...v0.2.9) (2018-02-13)
+
+
+### Bug Fixes
+
+* testing release ([353cf43](https://github.com/oclif/tslint/commit/353cf43))
+
 <a name="0.2.7"></a>
 ## [0.2.7](https://github.com/anycli/tslint/compare/fd0b34e177ee676ad734fc7c5830b41979585f00...v0.2.7) (2018-02-06)
 
