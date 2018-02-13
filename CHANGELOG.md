@@ -1,3 +1,11 @@
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/oclif/tslint/compare/v1.0.0...v1.0.1) (2018-02-13)
+
+
+### Bug Fixes
+
+* oclif rename ([6e30ecd](https://github.com/oclif/tslint/commit/6e30ecd))
+
 <a name="0.2.10"></a>
 ## [0.2.10](https://github.com/oclif/tslint/compare/353cf43c60262a792393ce0fab9f7f41b419942d...v0.2.10) (2018-02-13)
 
