@@ -1,3 +1,11 @@
+<a name="0.2.10"></a>
+## [0.2.10](https://github.com/oclif/tslint/compare/353cf43c60262a792393ce0fab9f7f41b419942d...v0.2.10) (2018-02-13)
+
+
+### Bug Fixes
+
+* add tslint add dep ([419cb43](https://github.com/oclif/tslint/commit/419cb43))
+
 <a name="0.2.9"></a>
 ## [0.2.9](https://github.com/oclif/tslint/compare/v0.2.8...v0.2.9) (2018-02-13)
 
