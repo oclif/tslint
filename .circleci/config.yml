@@ -6,7 +6,7 @@ jobs:
       - image: node:latest
     working_directory: ~/cli
     environment:
-      DEPS: "nyc@11 @anycli/nyc-config@0 mocha-junit-reporter@1 @commitlint/cli@6 @commitlint/config-conventional@6"
+      DEPS: "nyc@11 @oclif/nyc-config@0 mocha-junit-reporter@1 @commitlint/cli@6 @commitlint/config-conventional@6"
     steps:
       - checkout
       - restore_cache: &restore_cache
@@ -30,10 +30,10 @@ jobs:
       - checkout
       - restore_cache: *restore_cache
       - run: yarn add -D $DEPS
-      - run: yarn global add @anycli/semantic-release@1 semantic-release@12
+      - run: yarn global add @oclif/semantic-release@1 semantic-release@12
       - run: |
           export PATH=/usr/local/share/.config/yarn/global/node_modules/.bin:$PATH
-          semantic-release -e @anycli/semantic-release
+          semantic-release -e @oclif/semantic-release
       - save_cache:
           key: v0-yarn-{{checksum ".circleci/config.yml"}}-{{checksum "yarn.lock"}}
           paths:
@@ -43,14 +43,14 @@ jobs:
 
 workflows:
   version: 2
-  "@anycli/tslint":
+  "@oclif/tslint":
     jobs:
-      - node-latest
-      - node-8
+      # - node-latest
+      # - node-8
       - release:
           context: org-global
           filters:
             branches: {only: master}
-          requires:
-            - node-latest
-            - node-8
+          # requires:
+          #   - node-latest
+          #   - node-8

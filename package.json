@@ -1,21 +1,16 @@
 {
-  "name": "@anycli/tslint",
-  "description": "tslint rules for anycli components",
+  "name": "@oclif/tslint",
+  "description": "tslint rules for oclif components",
   "version": "0.2.7",
   "author": "Jeff Dickey @jdxcode",
-  "bugs": "https://github.com/anycli/tslint/issues",
+  "bugs": "https://github.com/oclif/tslint/issues",
   "dependencies": {
     "tslint": "^5.9.1",
     "tslint-xo": "^0.6.0"
   },
   "devDependencies": {
-    "@anycli/nyc-config": "0",
-    "@commitlint/cli": "6",
-    "@commitlint/config-conventional": "6",
     "eslint": "^4.16.0",
-    "eslint-config-anycli": "^1.3.1",
-    "mocha-junit-reporter": "1",
-    "nyc": "11",
+    "eslint-config-oclif": "^1.3.1",
     "typescript": "^2.7.1"
   },
   "engines": {
@@ -24,13 +19,13 @@
   "files": [
     "/tslint.json"
   ],
-  "homepage": "https://github.com/anycli/tslint",
+  "homepage": "https://github.com/oclif/tslint",
   "keywords": [
     "dxcli"
   ],
   "license": "MIT",
   "main": "tslint.json",
-  "repository": "anycli/tslint",
+  "repository": "oclif/tslint",
   "scripts": {
     "lint": "eslint .",
     "posttest": "yarn run lint",
