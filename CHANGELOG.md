@@ -1,3 +1,11 @@
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/oclif/tslint/compare/d28fdf62aa79727763c07a066921699cd6e3396d...v1.1.0) (2018-04-06)
+
+
+### Features
+
+* updated configs ([3b41a75](https://github.com/oclif/tslint/commit/3b41a75))
+
 <a name="1.0.2"></a>
 ## [1.0.2](https://github.com/oclif/tslint/compare/6e30ecd0813abf304ef96babe2da47915b569fe7...v1.0.2) (2018-02-14)
 
