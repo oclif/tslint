@@ -918,17 +918,17 @@ tslint-microsoft-contrib@^5.0.2:
   dependencies:
     tsutils "^2.12.1"
 
-tslint-xo@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/tslint-xo/-/tslint-xo-0.7.0.tgz#be5a1d67f8ade5d92aa8c0a21d9cfdcbaf06f3e0"
+tslint-xo@^0.7.2:
+  version "0.7.2"
+  resolved "https://registry.yarnpkg.com/tslint-xo/-/tslint-xo-0.7.2.tgz#7523e9f2819e23c5ce66b501e4b76067c1e6f637"
   dependencies:
     tslint-consistent-codestyle "^1.11.0"
     tslint-eslint-rules "^5.1.0"
     tslint-microsoft-contrib "^5.0.2"
 
-tslint@^5.9.1:
-  version "5.9.1"
-  resolved "https://registry.yarnpkg.com/tslint/-/tslint-5.9.1.tgz#1255f87a3ff57eb0b0e1f0e610a8b4748046c9ae"
+tslint@^5.10.0:
+  version "5.10.0"
+  resolved "https://registry.yarnpkg.com/tslint/-/tslint-5.10.0.tgz#11e26bccb88afa02dd0d9956cae3d4540b5f54c3"
   dependencies:
     babel-code-frame "^6.22.0"
     builtin-modules "^1.1.1"
@@ -965,9 +965,9 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
-typescript@^2.8.1:
-  version "2.8.1"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.8.1.tgz#6160e4f8f195d5ba81d4876f9c0cc1fbc0820624"
+typescript@^2.8.3:
+  version "2.8.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.8.3.tgz#5d817f9b6f31bb871835f4edf0089f21abe6c170"
 
 util-deprecate@~1.0.1:
   version "1.0.2"
