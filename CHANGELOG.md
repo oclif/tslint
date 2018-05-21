@@ -1,3 +1,11 @@
+<a name="1.1.2"></a>
+## [1.1.2](https://github.com/oclif/tslint/compare/660cd87ada58d7fc1a6a00749ba1f7737d84ae21...v1.1.2) (2018-05-21)
+
+
+### Bug Fixes
+
+* **package:** update tslint-xo to version 0.8.0 ([3d3881f](https://github.com/oclif/tslint/commit/3d3881f))
+
 <a name="1.1.1"></a>
 ## [1.1.1](https://github.com/oclif/tslint/compare/3b41a75da7523a2b90603efd10a65f5288110df2...v1.1.1) (2018-05-06)
 
