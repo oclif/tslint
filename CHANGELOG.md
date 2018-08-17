@@ -1,3 +1,16 @@
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/oclif/tslint/compare/c0aa9b573bdc1cc1ce7c4f97a558ae71f084c290...v2.0.0) (2018-08-17)
+
+
+### Features
+
+* typescript 3.x ([e73c45a](https://github.com/oclif/tslint/commit/e73c45a))
+
+
+### BREAKING CHANGES
+
+* tslint-xo@0.9.0
+
 <a name="1.1.2"></a>
 ## [1.1.2](https://github.com/oclif/tslint/compare/660cd87ada58d7fc1a6a00749ba1f7737d84ae21...v1.1.2) (2018-05-21)
 
