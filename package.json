@@ -1,7 +1,7 @@
 {
   "name": "@oclif/tslint",
   "description": "tslint rules for oclif components",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/oclif/tslint/issues",
   "dependencies": {
