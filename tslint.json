@@ -48,6 +48,7 @@
     "restrict-plus-operands": false,
     "semicolon": [true, "never"],
     "switch-default": false,
+    "ter-indent": [true, 2, { "MemberExpression": 0 }],
     "type-literal-delimiter": false,
     "underscore-consistent-invocation": false,
     "variable-name": false
