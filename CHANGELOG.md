@@ -1,3 +1,11 @@
+<a name="3.1.1"></a>
+## [3.1.1](https://github.com/oclif/tslint/compare/v3.1.0...v3.1.1) (2018-10-13)
+
+
+### Bug Fixes
+
+* remove greenkeeper badge ([3c96ea2](https://github.com/oclif/tslint/commit/3c96ea2))
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/oclif/tslint/compare/c0aa9b573bdc1cc1ce7c4f97a558ae71f084c290...v2.0.0) (2018-08-17)
 
