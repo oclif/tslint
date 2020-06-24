@@ -26,7 +26,11 @@
   "main": "tslint.json",
   "repository": "oclif/tslint",
   "scripts": {
-    "test": "tslint -p ."
+    "test": "mocha --forbid-only \"test/**/*.test.ts\"",
+    "lint": "eslint . --ext .ts --config .eslintrc",
+    "build": "rm -rf lib && tsc",
+    "pretest": "yarn build --noEmit",
+    "posttest": "yarn lint"
   },
   "types": "lib/index.d.ts"
 }
